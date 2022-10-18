@@ -1,0 +1,2 @@
+nvcc -lglut -lGL -lGLU -o heat2D heat2D.cu
+

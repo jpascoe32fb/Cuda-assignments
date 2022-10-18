@@ -1,0 +1,1 @@
+nvcc -lglut -lGL -lGLU julia_gpu.cu
